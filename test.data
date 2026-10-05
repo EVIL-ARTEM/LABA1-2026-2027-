@@ -1,0 +1,6 @@
+T mytree 20 10 40 25 50
+M arr X z
+F fl
+L dl a
+S mystack a b
+Q myqueue 2 3
